@@ -35,6 +35,7 @@ body {
 
 section {
   padding: 150px 0;
+  background-color: #fff;
 }
 
 @media (max-width: 767.98px) {
@@ -67,7 +68,7 @@ section {
   background: #555;
 }
 
-.section-inverse {
+section.color-inverse {
   color: #fff;
   background: #333;
 }
@@ -197,6 +198,10 @@ SERVICES SECTION
 =====================
 *
 */
+section.services {
+  background-color: #eee;
+}
+
 .services .box {
   margin-top: 20px;
 }
