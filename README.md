@@ -25,9 +25,3 @@ Use the Bootstrap CSS Framework to create a mobile responsive portfolio.
 > * Integrate Bootstrap components in HTML files to quickly build user      interfaces
 > * Add custom styling to a CSS framework
 > * Deploy to GitHub pages
-
-
-## Applied Resources
-Sites used for reference throughout project  
-
-[comment]: # (example)* [Mozilla Developer Network’s *HTML Accessibility article*](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML) for ADA compliance  
